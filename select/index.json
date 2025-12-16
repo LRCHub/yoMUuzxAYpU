@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロコ・モーション (Remastered 2002)",
+  "base_artist": "Grand Funk Railroad",
+  "createdAt": "2025-12-16T02:08:22.328562Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Loco-Motion",
+      "artist": "Grand Funk Railroad",
+      "has_synced": false,
+      "path": "select/pl_01_The_Loco-Motion_Grand_Funk_Railroad.txt"
+    }
+  ]
+}
